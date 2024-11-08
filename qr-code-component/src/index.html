@@ -3,10 +3,29 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="../build/main.css" />
-    <title>Hello World</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/built.css" />
+    <title>QR Code Component</title>
   </head>
   <body>
-    <h1 class="text-3xl">Hello World</h1>
+    <!-- Main Container -->
+    <div class="bg-mySlate-300 flex h-screen items-center justify-center">
+      <!-- Component Container -->
+      <div class="rounded-2xl bg-white p-4 pb-10">
+        <div class="flex w-[18rem] flex-col text-center">
+          <!-- Image -->
+          <img class="h-[18rem] rounded-xl" src="../assets/images/image-qr-code.png" alt="" />
+          <!-- Description -->
+          <h1 class="text-mySlate-900 mt-6 text-2xl font-bold leading-tight">
+            Improve your front-end skills by building projects
+          </h1>
+          <p class="text-mySlate-500 mt-4 text-base font-medium">
+            Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+          </p>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
