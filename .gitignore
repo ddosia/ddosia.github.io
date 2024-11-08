@@ -1,3 +1,6 @@
 node_modules/
-build/
+_build/
 package-lock.json
+
+# frontendmentor description of the challenge
+_fm_files/
