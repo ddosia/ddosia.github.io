@@ -13,9 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -46,5 +43,5 @@ Not entirely comfortable with text sizing.
 
 ## Author
 
-- [Telegram](hhttps://t.me/ddosia)
+- [Telegram](https://t.me/ddosia)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/ddosia)

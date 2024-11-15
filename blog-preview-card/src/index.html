@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="../assets/images/favicon-32x32.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/built.css" />
+
+    <title>Blog preview card challenge on Frontend Mentor</title>
+  </head>
+  <body>
+    <!-- Main Container -->
+    <main class="bg-myYellow flex min-h-screen flex-col items-center justify-center">
+      <!-- Component Container -->
+      <article
+        class="bg-myWhite border-myGray-950 font-figtree desktop:w-96 flex w-80 flex-col gap-6 rounded-2xl border px-6 py-6 leading-normal tracking-normal shadow-[hsl(0,0%,7%)_8px_8px_0px_0px]"
+      >
+        <!-- image -->
+        <img
+          class="max-h-[200px] w-auto rounded-xl object-none"
+          src="../assets/images/illustration-article.svg"
+          alt="Blog post article graphics"
+        />
+
+        <!-- card content -->
+        <div class="flex flex-col gap-3">
+          <!-- category -->
+          <div>
+            <a class="bg-myYellow rounded-md px-3 py-1 text-sm font-extrabold" href="#learning">Learning</a>
+          </div>
+          <!-- published -->
+          <div class="text-sm font-medium">Published 21 Dec 2023</div>
+
+          <!-- header -->
+          <h2 class="desktop:text-2xl text-xl font-extrabold">HTML & CSS foundations</h2>
+          <!-- description -->
+
+          <p class="text-myGray-500 desktop:text-base text-sm">
+            These languages are the backbone of every website, defining structure, content, and presentation.
+          </p>
+        </div>
+
+        <!-- author -->
+        <div class="flex items-center gap-3">
+          <img class="h-8 w-8" src="../assets/images/image-avatar.webp" alt="Greg Hooper" />
+          <p class="text-sm font-extrabold">Greg Hooper</p>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>
