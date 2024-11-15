@@ -613,12 +613,12 @@ video {
   padding-right: 1rem;
 }
 
-.pt-4 {
-  padding-top: 1rem;
-}
-
 .pb-10 {
   padding-bottom: 2.5rem;
+}
+
+.pt-4 {
+  padding-top: 1rem;
 }
 
 .text-center {
@@ -655,20 +655,4 @@ video {
 .text-mySlate-900 {
   --tw-text-opacity: 1;
   color: hsl(218 44% 22% / var(--tw-text-opacity));
-}
-
-.\*\:ml-4 > * {
-  margin-left: 1rem;
-}
-
-.\*\:mr-4 > * {
-  margin-right: 1rem;
-}
-
-.\[\&\>\*\:first-child\]\:mt-4>*:first-child {
-  margin-top: 1rem;
-}
-
-.\[\&\>\*\:last-child\]\:mb-10>*:last-child {
-  margin-bottom: 2.5rem;
 }
