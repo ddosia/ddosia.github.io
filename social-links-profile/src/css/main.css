@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply bg-myGray-700 hover:bg-myGreen hover:text-myGray-700 block rounded-md p-3 text-center font-semibold;
+  }
+}
