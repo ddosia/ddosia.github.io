@@ -653,25 +653,6 @@ video {
   background-color: hsl(0 0% 8% / var(--tw-bg-opacity));
 }
 
-.bg-myGreen {
-  --tw-bg-opacity: 1;
-  background-color: hsl(75 94% 57% / var(--tw-bg-opacity));
-}
-
-.bg-red-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
-}
-
-.bg-myGray-700 {
-  --tw-bg-opacity: 1;
-  background-color: hsl(0 0% 20% / var(--tw-bg-opacity));
-}
-
-.p-10 {
-  padding: 2.5rem;
-}
-
 .p-6 {
   padding: 1.5rem;
 }
