@@ -20,7 +20,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: https://github.com/ddosia/fm_challenges/tree/main/social-links-profile
+- Solution URL: https://github.com/ddosia/ddosia.github.io/tree/main/social-links-profile
 - Live Site URL: https://ddosia.github.io/social-links-profile/src/index.html
 
 ## My process

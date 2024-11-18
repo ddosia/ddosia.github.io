@@ -20,7 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: https://github.com/ddosia/fm_challenges/tree/main/recipe-page
+- Solution URL: https://github.com/ddosia/ddosia.github.io/tree/main/recipe-page
 - Live Site URL: https://ddosia.github.io/recipe-page/src/index.html
 
 ## My process
