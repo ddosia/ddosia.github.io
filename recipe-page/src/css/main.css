@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .hdr {
+    @apply text-myBrown-800 font-young-serif text-3xl leading-none;
+  }
+}
